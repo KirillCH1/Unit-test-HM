@@ -1,10 +1,9 @@
 
 
 
-![](https://github.com/KirillCH1/Unit-test-HM/blob/main/HM6/png/Чекстаил.png)
+![](https://github.com/KirillCH1/Unit-test-HM/blob/main/HM6/png/Чекстаил.png)  
 
-
-![]([https://github.com/KirillCH1/Unit-test-HM/tree/main/HM6/png](https://github.com/KirillCH1/Unit-test-HM/blob/main/HM6/png/Тесты.png))
+![](https://github.com/KirillCH1/Unit-test-HM/blob/main/HM6/png/Тесты.png)
 
 
 1. **testCompareAverages_FirstListGreater:**
